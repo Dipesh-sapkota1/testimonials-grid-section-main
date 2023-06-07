@@ -71,6 +71,9 @@ body{
 .testimonial .testimonial-content{
     padding: 0.5em;
 }
+.testimonial .testimonial-hading{
+    font-size: 1.25rem;
+}
 .testimonial .testimonial-text{
     opacity: 0.7;
 }
